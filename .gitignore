@@ -1,0 +1,9 @@
+*.[db]
+*.[log]
+/target
+
+git add .gitignore
+
+[3~[3~[21;2~[21;2~[3~git status
+
+
